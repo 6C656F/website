@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on 6C656F</title>
+    <link>https://6c656f.io/pa/tags/</link>
+    <description>Recent content in Tags on 6C656F</description>
+    <image>
+      <title>6C656F</title>
+      <url>https://6c656f.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://6c656f.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pa</language>
+    <atom:link href="https://6c656f.io/pa/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>6C656F</title>
+    <link>https://6c656f.io/pnb/</link>
+    <description>Recent content on 6C656F</description>
+    <image>
+      <title>6C656F</title>
+      <url>https://6c656f.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://6c656f.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pnb</language>
+    <atom:link href="https://6c656f.io/pnb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>میرے بارے</title>
+      <link>https://6c656f.io/pnb/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://6c656f.io/pnb/about/</guid>
+      <description>?</description>
+    </item>
+    <item>
+      <title>ہن</title>
+      <link>https://6c656f.io/pnb/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://6c656f.io/pnb/now/</guid>
+      <description>اس سمیں، میں اکّ گواچی ہوئی دھرتی وچّ ہاں۔
+میریاں موجودا کتاباں:
+Panjabi: A Comprehensive Grammar</description>
+    </item>
+  </channel>
+</rss>

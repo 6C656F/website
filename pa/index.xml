@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>6C656F</title>
+    <link>https://6c656f.io/pa/</link>
+    <description>Recent content on 6C656F</description>
+    <image>
+      <title>6C656F</title>
+      <url>https://6c656f.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://6c656f.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pa</language>
+    <atom:link href="https://6c656f.io/pa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ਹੁਣ</title>
+      <link>https://6c656f.io/pa/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://6c656f.io/pa/now/</guid>
+      <description>ਇਸ ਸਮੇਂ, ਮੈਂ ਇੱਕ ਗੁਆਚੀ ਹੋਈ ਧਰਤੀ ਵਿੱਚ ਹਾਂ।
+ਮੇਰੀਆਂ ਮੌਜੂਦਾ ਕਿਤਾਬਾਂ:
+Panjabi: A Comprehensive Grammar</description>
+    </item>
+    <item>
+      <title>ਮੇਰੇ ਬਾਰੇ</title>
+      <link>https://6c656f.io/pa/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://6c656f.io/pa/about/</guid>
+      <description>?</description>
+    </item>
+  </channel>
+</rss>
